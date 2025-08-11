@@ -100,23 +100,8 @@
     Age: 38-43 years
     
 <img src="Example/Detecting age and gender woman1.png">
-## 🧪 Features
 
-1. **Age Detection**  
-   - CNN model classifies into **8 age ranges**  
-   - Robust against variations in lighting, pose, and facial expressions  
 
-2. **Gender Classification**  
-   - CNN model predicts **Male** or **Female**  
-
-3. **Emotion Detection**  
-   - Uses **DeepFace** package for multi-class emotion recognition  
-
-4. **Smile Detection & Save Image**  
-   - Haar Cascade model detects smiles  
-   - Captures and saves the image automatically  
-
----
 
 ## 📊 Testing Phases
 
